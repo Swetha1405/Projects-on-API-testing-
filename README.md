@@ -30,7 +30,7 @@ This project contains a Postman collection for testing the **NumberToWords* SOAP
    - Empty or whitespace inputs.
    - Boolean values (`true`/`false`).
 
-# Newman Summary Report: 
+## Newman Summary Report: 
 file:///C:/Users/sasha/OneDrive/Desktop/swetha/thetestingacademy%20Aut%20cours/newman%20API%20html%20run%20report/API%20testing%20-SOAP%20project1-2024-10-15-01-49-50-542-0.html
 
 # Project #2: API  Documentation (Restful booking) collection
